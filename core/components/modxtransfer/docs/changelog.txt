@@ -1,0 +1,13 @@
+Changelog for ModxTransfer
+
+ModxTransfer 1.0.0 (December 16, 2025)
+====================================
+- Initial release
+- Export Elements: Categories, Templates, Chunks, TVs, Snippets, Plugins
+- Export Resources with TV values and hierarchy preservation
+- Import Elements with preview and execute modes
+- Import Resources with preview and execute modes
+- Custom Manager Page with tabbed interface
+- Filter exports by category or template
+- MODX 3.x compatibility
+- MIT License
