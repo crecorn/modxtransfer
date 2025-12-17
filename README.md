@@ -2,6 +2,9 @@
 
 A MODX 3 Extra for importing and exporting elements and resources.
 
+<img width="1511" height="552" alt="ModxTransfer" src="https://github.com/user-attachments/assets/832bbb01-0803-47a8-935c-9750ae40d654" />
+
+
 ![MODX Version](https://img.shields.io/badge/MODX-3.x-green.svg)
 ![License](https://img.shields.io/badge/license-MIT-blue.svg)
 
